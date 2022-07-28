@@ -19,3 +19,7 @@ button {
 button:hover {
   cursor: pointer;
 }
+
+body {
+  background-image: url(images/rerisson.jpg);
+}
