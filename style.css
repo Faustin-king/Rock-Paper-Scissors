@@ -20,8 +20,8 @@ button:hover {
   cursor: pointer;
 }
 
-body {
-  background-image: url(images/rerisson.jpg);
-  width: 100vw;
-  height: 100vh;
+.btns {
+  margin-top: 40px;
+  display: flex;
+  gap: 40px;
 }
