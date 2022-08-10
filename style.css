@@ -26,3 +26,8 @@ button:hover {
   outline: none;
   background: none;
 }
+
+.selections {
+  display: flex;
+  justify-content: center;
+}
