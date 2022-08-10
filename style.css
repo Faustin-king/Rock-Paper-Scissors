@@ -25,9 +25,15 @@ button:hover {
   border: none;
   outline: none;
   background: none;
+  cursor: pointer;
+  transition: 500ms;
 }
 
 .selections {
   display: flex;
   justify-content: center;
+}
+
+.selection:hover {
+  transform: scale(1.3);
 }
