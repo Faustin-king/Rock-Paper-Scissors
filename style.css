@@ -52,3 +52,12 @@ button:hover {
   font-size: 0.5rem;
   color: #333;
 }
+
+.result-selection {
+  opacity: 0.5;
+}
+
+.result-section.winner {
+  opacity: 1;
+  font-size: 1.5rem;
+}
